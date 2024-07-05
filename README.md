@@ -1,7 +1,4 @@
 # Optical-Mark-Recognition-OpenCV
-# Optical Mark Recognition OPENCV
-
-
 
 [![Watch Video](https://github.com/murtazahassan/Optical-Mark-Recognition-OPENCV/blob/master/Thumbnail.jpg)](https://youtu.be/0IqCOPlGBTs)
 
