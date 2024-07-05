@@ -10,29 +10,6 @@ Digits Classification using Convolution Neural Network
 
 https://youtu.be/y1ZrOs9s2QA
 
-###########################################
-
-
-Like --- Comment --- Share 
-
-Subscribe its FREE !!! 😂😂😂
-
-
-#OMR
-#OPENCV 
-#PYTHON
-
-Links:
-
-Recommend Webcam for Computer Vision:
-
-https://amzn.to/2MNtVKZ
-
-Budget Webcam:
-
-https://amzn.to/2ZP47Ug
-
-
 Video Links:
 Classify Traffic Signs: https://youtu.be/SWaYRyi0TTs
 
@@ -45,9 +22,3 @@ https://www.youtube.com/watch?v=CJXIj...
 
 5 Must Know OpencCV Functions:
 https://youtu.be/7kHhz7nkpBw
-
-Easy Object Following Robot using Arduino and PixyCam:
-https://youtu.be/w_krOCBk1DE
-
-Robot Arm Arduino Tutorial | Gesture Controlled:
-https://youtu.be/gmz7eOB-tCg
